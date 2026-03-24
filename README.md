@@ -1,2 +1,2 @@
-# example-repo
-Project example
+Task manager
+Manages task assignments for employees
